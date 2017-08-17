@@ -1,0 +1,15 @@
+{
+  "name": "cordova-template-ng-cli",
+  "version": "0.0.1",
+  "description": "Experimental!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Tomo Masakura <tomo.masakura@gmail.com>",
+  "license": "MIT"
+}
