@@ -10,6 +10,8 @@
     "ecosystem:cordova",
     "cordova:template"
   ],
-  "author": "Tomo Masakura <tomo.masakura@gmail.com>",
+  "authors": [
+    "Tomo Masakura <tomo.masakura@gmail.com>"
+  ],
   "license": "MIT"
 }
